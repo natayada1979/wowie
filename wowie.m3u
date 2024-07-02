@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:123, Cinema 1 - Cinema 1
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:321,ElephantsDream - ElephantsDream
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
