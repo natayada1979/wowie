@@ -1,7 +1,4 @@
 #EXTM3U
 
-#EXTINF:123, Cinema 1 - Cinema 1
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/redbox/FLT_8016.1_JulyFLTVChannelTile_RdbxFreeMovies_DaughterWolf_248x140.jpg" group-title="RedBox: Summer Movies Showcase",Redbox Free Movies
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
-#EXTINF:321,ElephantsDream - ElephantsDream
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
