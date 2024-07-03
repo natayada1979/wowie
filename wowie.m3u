@@ -1,10 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://scontent-mnl1-1.xx.fbcdn.net/v/t31.18172-8/922126_10151625789898487_765159534_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0327a3&_nc_eui2=AeEuJDcDBdA7N0-LNHcEdhoCUGSK8BmGRiRQZIrwGYZGJHaz9ofr-LQ8kQEIDcZhtj8nOgvt3ecKisvxy3atO4b4&_nc_ohc=TPXV4Bcq8DYQ7kNvgFaV--H&_nc_ht=scontent-mnl1-1.xx&oh=00_AYAVe3TVsbsayzmmTKvBTcm1tilJZcOV1MuQ0IImtPLNGw&oe=66AB590A" group-title="Wowie",Cinema 1
+#EXTINF:-1 tvg-logo="https://scontent-mnl1-1.xx.fbcdn.net/v/t31.18172-8/922126_10151625789898487_765159534_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0327a3&_nc_eui2=AeEuJDcDBdA7N0-LNHcEdhoCUGSK8BmGRiRQZIrwGYZGJHaz9ofr-LQ8kQEIDcZhtj8nOgvt3ecKisvxy3atO4b4&_nc_ohc=TPXV4Bcq8DYQ7kNvgFaV--H&_nc_ht=scontent-mnl1-1.xx&oh=00_AYAVe3TVsbsayzmmTKvBTcm1tilJZcOV1MuQ0IImtPLNGw&oe=66AB590A" group-title="Wowie-Movie",Cinema 1
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4HHc276Pp2gsidDtKJBKZpwTxNBoOnMi6w&s" group-title="Wowie",HBO 2 East (720)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4HHc276Pp2gsidDtKJBKZpwTxNBoOnMi6w&s" group-title="Wowie-Movie",HBO 2 East (720)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3toaL3P4FjLBuz-yVAWzl-o8NelBXbt0Dy28hmIywUmj8eRTyFwgbqsr4LcVHBLsB48" group-title="Wowie",Redbox Free Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3toaL3P4FjLBuz-yVAWzl-o8NelBXbt0Dy28hmIywUmj8eRTyFwgbqsr4LcVHBLsB48" group-title="Wowie-Movie",Redbox Free Movies
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png" group-title="Wowie-Religious",Ang Dating Daan
+https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
