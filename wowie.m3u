@@ -33,6 +33,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720098666/ei/C
 #EXTINF:-1 tvg-logo="https://carsonparkdesign.com/wp-content/uploads/2014/02/Al_jazeera_Calligraphy_Animation.gif" group-title="Wowie-News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Wowie-News",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png" group-title="Wowie-News",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
