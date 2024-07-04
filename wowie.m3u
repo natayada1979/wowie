@@ -27,6 +27,9 @@ https://ln.run/mikephgma7?.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/230/115/png-transparent-tv5-philippines-television-channel-logo-abc-logo-television-text-trademark.png" group-title="Wowie-Local TV",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZPWdN5qzZzQcA4QmkvwmLi0etlQh9kaZEdd9ajS1LQexj91gi_cysXVFFRB0yZbRgpcUcQXnqw=s160-c-k-c0x00ffffff-no-rj" group-title="Wowie-Local TV",UNTV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720098666/ei/CUuGZpXfOY6u6dsP5-eB2AM/ip/92.205.15.128/id/FgW4dJZRIgs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166969/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUujHXH6fiPrL90h_htm6Xu_xh4LUHz0HM-EtIKnREUBpqHKw-rSi5RbyEQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPTBdFixPHZFrnphxf_PcYcSuUQ0qpp_N1PiGGmMq5O-AiB4sUSlUDkzBCpRgvblHt7MCKtAeCEeL5SkD5RNE3IEeQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://carsonparkdesign.com/wp-content/uploads/2014/02/Al_jazeera_Calligraphy_Animation.gif" group-title="Wowie-News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
