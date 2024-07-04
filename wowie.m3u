@@ -57,3 +57,6 @@ https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSterQopokt37dESk7e7fsukVfvm_SHyKfSA&s" group-title="Wowie-News",Fox News
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5c/84/a4/5c84a42e30a4015e48d09c2d24da322d.png" group-title="Wowie-News",Abc News
+https://lnc-abc-news.tubi.video/index.m3u8
+
