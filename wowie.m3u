@@ -66,3 +66,6 @@ https://lnc-abc-news.tubi.video/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PXyZ6MuNV99GW1PgRlPH0_TAuZ3ydNL2NyrK3IoijNZFyG4bE7k-6wzbresFgB9jEQw" group-title="Wowie-News",Abc News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1vene9pYLjyd_ZzbzokiWSSRNKyHmjMAtw&s" group-title="Wowie-News",Africanews
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+
