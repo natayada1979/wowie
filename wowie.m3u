@@ -21,3 +21,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Wowie-News",RT
 http://3.237.104.64/https://rt-arb.rttv.com/live/rtnews/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://jawaltv.com/images/fr/dw_en.jpg" group-title="Wowie-News",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
