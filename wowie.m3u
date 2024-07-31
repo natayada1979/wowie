@@ -23,6 +23,9 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4HHc276Pp2gsidDtKJBKZpwTxNBoOnMi6w&s" group-title="Wowie-Movie",HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/Viva_Cinema_Logo_2009.png/revision/latest?cb=20220107165510" group-title="Wowie-Movie",Viva Cinema
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest/scale-to-width-down/1000?cb=20210920125940" group-title="Wowie-Movie",Tap Movies
 http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66825.ts
 
