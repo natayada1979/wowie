@@ -20,6 +20,9 @@ https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/abscbn/images/4/4b/CineMo%21.png/revision/latest?cb=20231202173323" group-title="Wowie-Movie",Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911" group-title="Wowie-Movie",Hits Movies
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
+
 
 
 
