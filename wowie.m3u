@@ -98,3 +98,6 @@ http://193.151.109.30:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/747.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Wowie-Sports",ESPN 2
 http://194.120.144.75:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/41918.ts
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="Wowie-Sports",ESPN News
+http://188.93.236.76:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/2312.ts
+
