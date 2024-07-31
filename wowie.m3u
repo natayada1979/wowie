@@ -84,6 +84,9 @@ http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567738.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIlN__8FVKwkAU4aMi0gz2Cf1VN8-fkMYCQw&s" group-title="Wowie-Local TV",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/TFC_Logo_1996_%28RGB_Version%29.png/revision/latest?cb=20240323165321" group-title="Wowie-Local TV",TFC
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/546785.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZPWdN5qzZzQcA4QmkvwmLi0etlQh9kaZEdd9ajS1LQexj91gi_cysXVFFRB0yZbRgpcUcQXnqw=s160-c-k-c0x00ffffff-no-rj" group-title="Wowie-Local TV",UNTV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720788464/ei/kNGQZva8F42Ji9oP8Z-7-AI/ip/92.205.15.128/id/FgW4dJZRIgs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAXVc3NejxhFcJXrCbT-1lR6o1M79uGxZPZbdHzP0SnhXrwOIDFSA1TB5wGw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPTLhNPwKk42TUtvh9aM0t7FcdYC71L6tg7O0b16rJL-AiBwZbwAPLkQ0hjpCA4onhrUZ62Lsa51su84r2nOmP4v0A%3D%3D/file/index.m3u8
 
