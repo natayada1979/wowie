@@ -47,6 +47,9 @@ https://ln.run/mikephgma7?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1200px-GMA_Life_TV_logo.png" group-title="Wowie-Local TV",GMA Life TV
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/4522.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Wowie-Local TV",GMA Pinoy TV
+http://194.42.205.101:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/147238.ts
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/230/115/png-transparent-tv5-philippines-television-channel-logo-abc-logo-television-text-trademark.png" group-title="Wowie-Local TV",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
