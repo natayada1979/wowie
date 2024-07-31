@@ -75,6 +75,9 @@ http://128.0.104.44:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144837.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/230/115/png-transparent-tv5-philippines-television-channel-logo-abc-logo-television-text-trademark.png" group-title="Wowie-Local TV",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/PTV_logo_2017.svg" group-title="Wowie-Local TV",PTV
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567738.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIlN__8FVKwkAU4aMi0gz2Cf1VN8-fkMYCQw&s" group-title="Wowie-Local TV",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
