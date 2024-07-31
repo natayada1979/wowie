@@ -65,6 +65,9 @@ http://194.42.205.101:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/299946.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/800px-OnePHCignal.svg.png" group-title="Wowie-Local TV",One PH
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567732.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/800px-One_Sports_logo.svg.png" group-title="Wowie-Local TV",One Sports
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567708.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Kapamilya_Online_Live_Logo_2020.svg/2560px-Kapamilya_Online_Live_Logo_2020.svg.png" group-title="Wowie-Local TV",Kapamilya Online
 http://128.0.104.44:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144837.ts
 
