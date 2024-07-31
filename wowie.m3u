@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Wowie-Cartoon",Cartoon Network Southeast Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/au_disneyjunior_lg_r_06c341e0.png" group-title="Wowie-Cartoon",Disney Junior
+https://fl2.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cd770b2-3e49-4672-99fb-8483b9dd9bf0/dgg5i6n-f8ec7dee-b92d-42d7-832d-bfcb34331d09.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZDc3MGIyLTNlNDktNDY3Mi05OWZiLTg0ODNiOWRkOWJmMFwvZGdnNWk2bi1mOGVjN2RlZS1iOTJkLTQyZDctODMyZC1iZmNiMzQzMzFkMDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U9SjtP8yLSwgohby37dp4vCKBmKONZLWEjj7rwipV6o" group-title="Wowie-Cartoon",Cartoon Network
 https://dvrfl07.bozztv.com/astv-cartoonnetwork/index.m3u8
 
