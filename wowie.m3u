@@ -12,6 +12,9 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4HHc276Pp2gsidDtKJBKZpwTxNBoOnMi6w&s" group-title="Wowie-Movie",HBO 2 East
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/abscbn/images/4/4b/CineMo%21.png/revision/latest?cb=20231202173323" group-title="Wowie-Movie",Cinemo
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 
